@@ -18,3 +18,5 @@ link prediction:
 using method of TransE to predict possible new link
 
 mix.py -voter combining results of TransE and TransR
+
+![Alt text](https://github.com/DanDanZee/link-prediction/data/poster.jpg)
