@@ -19,4 +19,4 @@ using method of TransE to predict possible new link
 
 mix.py -voter combining results of TransE and TransR
 
-![](https://github.com/DanDanZee/link-prediction/tree/master/data/poster.jpg)
+![not found](https://github.com/DanDanZee/link-prediction/tree/master/data/poster.jpg)
