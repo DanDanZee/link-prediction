@@ -4,7 +4,7 @@ Knowledge graphs have become very critical resources to support many AI related 
 
 "This task, as the second project in EE448 course, asks you to infer missing links in an observed academic knowledge graph. To avoid internal information leakage, all the entities are encoded into 8-digit hexadecimal numbers."
 
- ![image](https://github.com/DanDanZee/link-prediction/raw/master/data/poster.jpg)
+
 data:
 train.csv - the training set, triplets are given in the format of (head, relation, tail).
 test.csv - the test set. In each query only the head and relation is given and you should predict the possible tails.
@@ -19,4 +19,4 @@ using method of TransE to predict possible new link
 
 mix.py -voter combining results of TransE and TransR
 
- ![image](https://github.com/DanDanZee/link-prediction/edit/master/data/poster.jpg)
+ ![image](https://github.com/DanDanZee/link-prediction/raw/master/data/poster.jpg)
