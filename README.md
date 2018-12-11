@@ -1,5 +1,8 @@
 # link-prediction
 coursework2 of data mining
+
+
+
 Knowledge graphs have become very critical resources to support many AI related applications, such as graph analytics, Q&A system, web search, etc. A knowledge graph is a multi-relational graph composed of entities as nodes and relations as different types of edges. An instance of edge is a triplet of fact (head entity, relation, tail entity) (denoted as (h, r, t)).
 
 "This task, as the second project in EE448 course, asks you to infer missing links in an observed academic knowledge graph. To avoid internal information leakage, all the entities are encoded into 8-digit hexadecimal numbers."
